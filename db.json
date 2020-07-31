@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Culinária",
+      "descricao": "",
+      "cor": "orange"
+    },
+    {
+      "id": 2,
+      "nome": "Games",
+      "descricao": "",
+      "cor": "red"
+    }
+  ]
+}
